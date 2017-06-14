@@ -1,6 +1,6 @@
 ms-vsc-2010-sp1:
   '10.0.30319':
-    full_name: Microsoft Visual C++ 2010 x64 Redistributable - 10.0.30319
+    full_name: Microsoft Visual C++ 2010  x64 Redistributable - 10.0.30319
     installer: 'salt://installs/vcredist_x64.exe'
     install_flags: '/q /norestart'
     uninstaller: 'msiexec.exe'
